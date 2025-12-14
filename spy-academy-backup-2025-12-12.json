@@ -1,0 +1,67 @@
+[
+  {
+    "id": "agent-007",
+    "username": "jb007",
+    "name": "James Bond",
+    "role": "student",
+    "grade": 12,
+    "progress": {
+      "completedMissionIds": [
+        "WK-01",
+        "WK-02",
+        "WK-03",
+        "WK-04",
+        "WK-05"
+      ],
+      "completedProjectIds": [
+        1,
+        2
+      ],
+      "completedSpellingIds": [],
+      "portfolioItems": {}
+    }
+  },
+  {
+    "id": "agent-006",
+    "username": "006",
+    "name": "Alec Trevelyan",
+    "role": "student",
+    "grade": 11,
+    "progress": {
+      "completedMissionIds": [
+        "WK-01"
+      ],
+      "completedProjectIds": [],
+      "completedSpellingIds": [],
+      "portfolioItems": {}
+    }
+  },
+  {
+    "id": "agent-q",
+    "username": "q",
+    "name": "Q",
+    "role": "student",
+    "grade": 10,
+    "progress": {
+      "completedMissionIds": [
+        "WK-01",
+        "WK-02",
+        "WK-03",
+        "WK-04",
+        "WK-05",
+        "WK-06",
+        "WK-07",
+        "WK-08",
+        "WK-09",
+        "WK-10"
+      ],
+      "completedProjectIds": [
+        1,
+        2,
+        3
+      ],
+      "completedSpellingIds": [],
+      "portfolioItems": {}
+    }
+  }
+]
